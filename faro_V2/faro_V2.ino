@@ -285,7 +285,7 @@ void loop() {
 
   // ########################  parar   ########################
   else {
-    parar();
+    frente(0.7*VELOCIDADE);
   }
 
   // Serial.println("esquerdo 2:");
